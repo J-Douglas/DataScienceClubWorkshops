@@ -10,7 +10,7 @@ For the workshop, I create a slideshow that went over terms and concepts used in
 
 ## Notebook
 
-I created a notebook to demonstrate two applications of neural networks: a feedforward neural network made from scratch and an ANN made with TensorFlow for classifying images from the Fashion-MNIST dataset (computer vision). The neural network from scratch application was inspired from this blog [here](https://victorzhou.com/blog/intro-to-neural-networks/). You can see the notebook [here](https://bit.ly/32pKlRJ) or click on the notebook file in this repository. 
+I created a notebook to demonstrate two applications of neural networks: a feedforward neural network made from scratch and an ANN made with TensorFlow for classifying images from the Fashion-MNIST dataset (computer vision). The neural network from scratch application was inspired from this blog [here](https://victorzhou.com/blog/intro-to-neural-networks/). You can see the workshop notebook [here](https://bit.ly/32pKlRJ) or click on the notebook file in this repository. 
 
 ## YouTube
 
