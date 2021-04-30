@@ -1,4 +1,4 @@
-# DataScienceClubWorkshops
+# UWaterloo Data Science Club Workshops
 
 A repo for all my UWaterloo Data Science Workshops. Navigate to each workshop folder to find information on workshop summaries, notebooks, and slides.
 
