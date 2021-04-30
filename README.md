@@ -2,7 +2,7 @@
 
 A repo for all my UWaterloo Data Science Workshops. Navigate to each workshop folder to find information on workshop summaries, notebooks, and slides.
 
-### Videos
+## Videos
 
 Neural Networks and Computer Vision Workshop: [https://www.youtube.com/watch?v=Y_YsKhBooOc&ab_channel=UWaterlooDataScience](https://www.youtube.com/watch?v=Y_YsKhBooOc&ab_channel=UWaterlooDataScience)
 
