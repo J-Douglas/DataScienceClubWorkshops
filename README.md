@@ -5,6 +5,6 @@ A repo for all my UWaterloo Data Science Workshops. Navigate to each workshop fo
 
 ### Videos
 
-Neural Networks and Computer Vision Workshop: [https://www.youtube.com/watch?v=Y_YsKhBooOc&ab_channel=UWaterlooDataScience](https://www.youtube.com/watch?v=Y_YsKhBooOc&ab_channel=UWaterlooDataScience)
+Neural Networks and Computer Vision Workshop: [https://youtu.be/Y_YsKhBooOc](https://youtu.be/Y_YsKhBooOc)
 
-Clustering Workshop: [https://www.youtube.com/watch?v=127zPeHsFpU&ab_channel=UWaterlooDataScience](https://www.youtube.com/watch?v=127zPeHsFpU&ab_channel=UWaterlooDataScience)
+Clustering Workshop: [https://youtu.be/127zPeHsFpU](https://youtu.be/127zPeHsFpU)
