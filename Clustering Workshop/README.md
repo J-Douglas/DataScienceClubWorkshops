@@ -1,8 +1,8 @@
-# WDSC — Clustering Workshop
+# Clustering Workshop
 
 ## Summary
 
-As the VP of Education, this was the workshop I presented for the Waterloo Data Science Club (WDSC). In the workshop, I go over what clustering is and its applications in data science. I go over 4 types of clustering algorithms: centroid-based, connectivity-based, density-based, and distribution-based. I explained the k-means algorithm and the hierarchical agglomerative clustering algorithm in detail. At the end of the workshop, I go over a notebook demo to show how to apply the clustering concepts I teach on a real dataset.
+This was the workshop I presented for the Waterloo Data Science Club (WDSC) in Winter 2021. In the workshop, I go over what clustering is and its applications in data science. I go over 4 types of clustering algorithms: centroid-based, connectivity-based, density-based, and distribution-based. I explained the k-means algorithm and the hierarchical agglomerative clustering algorithm in detail. At the end of the workshop, I go over a notebook demo to show how to apply the clustering concepts I teach on a real dataset.
 
 ## Presentation
 
