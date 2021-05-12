@@ -2,7 +2,7 @@
 
 ## Summary
 
-As the VP of Education, this was the workshop I presented for the Waterloo Data Science Club (WDSC). In the workshop, I go over the math and theory behind how neural networks work. In a notebook demo, I show two applications of neural networks: building a feedforward neural network from scratch and classifying images from the Fashion-MNIST dataset (computer vision). At the end of the workshop, I go over the 4 different types of layers used to create convolutional neural networks (CNN's), which are the most commonly used neural network architecture for computer vision.
+This was the workshop I presented for the Waterloo Data Science Club (WDSC) in Fall 2020. In the workshop, I go over the math and theory behind how neural networks work. In a notebook demo, I show two applications of neural networks: building a feedforward neural network from scratch and classifying images from the Fashion-MNIST dataset (computer vision). At the end of the workshop, I go over the 4 different types of layers used to create convolutional neural networks (CNN's), which are the most commonly used neural network architecture for computer vision.
 
 ## Presentation
 
