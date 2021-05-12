@@ -5,6 +5,6 @@ A repo for all my UWaterloo Data Science workshop materials. Navigate to each wo
 
 ### Videos
 
-Neural Networks and Computer Vision Workshop: [https://youtu.be/Y_YsKhBooOc](https://youtu.be/Y_YsKhBooOc)
+Neural Networks and Computer Vision Workshop (Fall 2020): [https://youtu.be/Y_YsKhBooOc](https://youtu.be/Y_YsKhBooOc)
 
-Clustering Workshop: [https://youtu.be/127zPeHsFpU](https://youtu.be/127zPeHsFpU)
+Clustering Workshop (Winter 2021): [https://youtu.be/127zPeHsFpU](https://youtu.be/127zPeHsFpU)
