@@ -1,4 +1,4 @@
-# WDSC - Dimensionality Reduction Workshop
+# Dimensionality Reduction Workshop
 
 ## Summary
 
