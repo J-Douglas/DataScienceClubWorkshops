@@ -1,4 +1,4 @@
-# WDSC — Neural Network and Computer Vision Workshop
+# Neural Network and Computer Vision Workshop
 
 ## Summary
 
