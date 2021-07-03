@@ -6,11 +6,11 @@ This was the workshop I presented for the Waterloo Data Science Club (WDSC) in S
 
 ## Presentation
 
-For the workshop, I created slides that went over what a recommender system is, the types of entity relationships used, the types of data you will see in recommender system datasets, and explained three different recommender system approaches. You can look at the slideshow [here](https://bit.ly/3dzMDmM) or click on the presentation file in this repository. 
+For the workshop, I created slides that went over what a recommender system is, the types of entity relationships used, the types of data you will see in recommender system datasets, and explained three different recommender system approaches. You can look at the slideshow [here](https://bit.ly/3ji05zy) or click on the presentation file in this repository. 
 
 ## Notebook
 
-I created a notebook to demonstrate the implementation of a content-based filter and a collaborative filter on the MovieLens 100K dataset. The product attribute processing was inspired from this blog [here](https://towardsdatascience.com/movie-recommendation-system-based-on-movielens-ef0df580cd0e). You can see more about the notebook implementation and tools used [here](https://bit.ly/3ji05zy) or click on the notebook file in this repository. 
+I created a notebook to demonstrate the implementation of a content-based filter and a collaborative filter on the MovieLens 100K dataset. The product attribute processing was inspired from this blog [here](https://towardsdatascience.com/movie-recommendation-system-based-on-movielens-ef0df580cd0e). You can see more about the notebook implementation and tools used [here](https://bit.ly/3dzMDmM) or click on the notebook file in this repository. 
 
 ## YouTube
 
