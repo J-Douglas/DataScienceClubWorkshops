@@ -6,7 +6,7 @@ This was the workshop I presented for the Waterloo Data Science Club (WDSC) in F
 
 ## Presentation
 
-For the workshop, I create a slideshow that went over terms and concepts used in neural networks. You can look at the slideshow [here](https://bit.ly/2U0U8Jr).
+For the workshop, I created a slideshow that went over terms and concepts used in neural networks. You can look at the slideshow [here](https://bit.ly/2U0U8Jr).
 
 ## Notebook
 
