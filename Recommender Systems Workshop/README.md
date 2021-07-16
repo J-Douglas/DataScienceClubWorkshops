@@ -2,11 +2,11 @@
 
 ## Summary
 
-This was the workshop I presented for the Waterloo Data Science Club (WDSC) in Summer 2021. This workshop goes over the theory and application of recommender systems. The workshop introduces the different types of data relationships used to create recommendations. We will also go over the types of data you will see in recommender system datasets. Three approaches to recommender systems will be discussed: content-based, collaborative, and hybrid filtering. We will discuss notation to express the datasets and the optimization algorithms used. Lastly, a notebook will go over a movie ratings dataset and show how to implement a content-based and a collaborative recommender system so that you can see how to apply the theory discussed on your own. 
+This was the workshop I presented for the Waterloo Data Science Club (WDSC) in Summer 2021. This workshop goes over the theory and application of recommender systems. The workshop introduces the different types of data relationships used to create recommendations. We will also go over the types of data you will see in recommender system datasets. Two approaches to recommender systems will be discussed: content-based and collaborative filtering. We will discuss notation to express the datasets and the optimization algorithms used. Lastly, a notebook will go over a movie ratings dataset and show how to implement a content-based and a collaborative recommender system so that you can see how to apply the theory discussed on your own.
 
 ## Presentation
 
-For the workshop, I created slides that went over what a recommender system is, the types of entity relationships used, the types of data you will see in recommender system datasets, and explained three different recommender system approaches. You can look at the slideshow [here](https://bit.ly/3ji05zy) or click on the presentation file in this repository. 
+For the workshop, I created slides that went over what a recommender system is, the types of entity relationships used in recommender systems, the types of data you will see in recommender system datasets, and explained two different recommender system approaches. You can look at the slideshow [here](https://bit.ly/3ji05zy) or click on the presentation file in this repository. 
 
 ## Notebook
 
@@ -14,4 +14,4 @@ I created a notebook to demonstrate the implementation of a content-based filter
 
 ## YouTube
 
-The workshop will be uploaded to the UWaterloo Data Science Club soon.
+The workshop was recorded and uploaded to YouTube! You can watch the video [here](https://www.youtube.com/watch?v=5S_m_46ILco&ab_channel=UWaterlooDataScience).
