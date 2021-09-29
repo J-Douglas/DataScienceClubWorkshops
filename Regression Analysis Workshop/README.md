@@ -2,7 +2,7 @@
 
 ## Summary
 
-This was the workshop I presented for the Waterloo Data Science Club (WDSC) in Fall 2021. This workshop goes over the theory and application of regression analysis. The workshop goes over the basic of machine learning and an introduction to the concepts used in regression. As well, three types of regression are discussed in more detail: linear regression, poisson regression, and logistic regression. For the second half of the workshop, we will go over a notebooks which shows how to implement each type of regression and apply them to three different datasets.
+This was the workshop I presented for the Waterloo Data Science Club (WDSC) in Fall 2021. This workshop goes over the theory and application of regression analysis. The workshop begins with background information about the motivation for machine learning and the different types of machine learning. We introduce the importance of regression, and how it is achieved using a cost function and optimizer. As well, three types of regression are discussed in more detail: linear regression, polynomial regression, and logistic regression. For the second half of the workshop, we will go over  how to implement each type of regression and apply them to different datasets in a notebook.
 
 ## Presentation
 
