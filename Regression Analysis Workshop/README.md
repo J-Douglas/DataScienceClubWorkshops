@@ -6,12 +6,12 @@ This was the workshop I presented for the Waterloo Data Science Club (WDSC) in F
 
 ## Presentation
 
-For the workshop, I created slides that went over the types of machine learning, what regression is and how it works, and three types of regression models. 
+For the workshop, I created slides that went over the types of machine learning, what regression is and how it works, and three types of regression models. You can look at the slideshow [here](https://bit.ly/3F8oC2r).
 
 ## Notebook
 
-I created a notebook to demonstrate the implementation of linear regression, poisson regression, and logistic regression. The datasets used in the notebook were found [here](https://www.kaggle.com/rtatman/datasets-for-regression-analysis).
+I created a notebook to demonstrate the implementation of linear regression, poisson regression, and logistic regression. The notebook can be found [here](https://bit.ly/39kUSRm) and the datasets used can be found [here](https://github.com/J-Douglas/DataScienceClubWorkshops/tree/main/Regression%20Analysis%20Workshop/datasets).
 
 ## YouTube
 
-The workshop will be recorded and uploaded to the UWaterloo Data Science Club YouTube channel.
+The workshop was recorded and uploaded to YouTube! You can watch the video [here](https://www.youtube.com/watch?v=IeU2nlwUleQ).
