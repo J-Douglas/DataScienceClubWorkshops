@@ -5,6 +5,8 @@ A repo for all my UWaterloo Data Science workshop materials. Navigate to each wo
 
 ### Workshop Recording
 
+Data Science Libraries and Tools Workshop (Fall 2021): [https://bit.ly/3ct2ZN4](https://www.youtube.com/watch?v=VwW1KzLVXco&ab_channel=UWaterlooDataScience)
+
 Regression Analysis Workshop (Fall 2021): [https://bit.ly/3ooJzAc](https://www.youtube.com/watch?v=IeU2nlwUleQ)
 
 Recommender Systems Workshop (Summer 2021): [https://bit.ly/3xOI8g8](https://www.youtube.com/watch?v=5S_m_46ILco&ab_channel=UWaterlooDataScience)
