@@ -15,7 +15,3 @@ For the dynamic programming approach, we first initalize a n x m matrix to store
 ![Subproblem Formula](img/SubproblemFormula.jpg)
 
 ![Example DP Table](img/DPTable.jpg)
-
-## YouTube
-
-The workshop was recorded and uploaded to YouTube! You can watch the video [here]().
