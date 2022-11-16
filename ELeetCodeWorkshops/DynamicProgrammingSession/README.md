@@ -6,11 +6,11 @@ This was the workshop I co-presented for the Waterloo Data Science Club (WDSC) i
 
 ## Brute Force Approach
 
-The brute force approach gets all the subsequences of each string and finds the longest one that they share. Let the first string have length n and the second string have length m. Therefore, they have 2^n and 2^m subsequences respectively. Therefore, the runime is O(2^nm). This yields a time limit exceeded error. You can find the code for the brute force approach [here](https://github.com/J-Douglas/DataScienceClubWorkshops/blob/main/ELeetCodeWorkshop/DynamicProgrammingSession/bruteforce.py). 
+The brute force approach gets all the subsequences of each string and finds the longest one that they share. Let the first string have length n and the second string have length m. Therefore, they have 2^n and 2^m subsequences respectively. Therefore, the runime is O(2^nm). This yields a time limit exceeded error. You can find the code for the brute force approach [here](https://github.com/J-Douglas/DataScienceClubWorkshops/blob/main/ELeetCodeWorkshops/DynamicProgrammingSession/bruteforce.py). 
 
 ## Dynamic Programming Approach
 
-For the dynamic programming approach, we first initalize a n x m matrix to store the answers to each subproblem. Each subproblem is finding the longest common subsequence for substrings of text1 and text2. To evaluate each subproblem, we use the formula shown below. Therefore, we have nm subproblems and each subproblem takes a constant amount of work so the runtime is O(nm). You can find the code for the dynamic programming approach [here](https://github.com/J-Douglas/DataScienceClubWorkshops/blob/main/ELeetCodeWorkshop/DynamicProgrammingSession/LongestCommonSubsequence.py). Credit to Professor Arne Storjohann for the visuals.
+For the dynamic programming approach, we first initalize a n x m matrix to store the answers to each subproblem. Each subproblem is finding the longest common subsequence for substrings of text1 and text2. To evaluate each subproblem, we use the formula shown below. Therefore, we have nm subproblems and each subproblem takes a constant amount of work so the runtime is O(nm). You can find the code for the dynamic programming approach [here](https://github.com/J-Douglas/DataScienceClubWorkshops/blob/main/ELeetCodeWorkshops/DynamicProgrammingSession/LongestCommonSubsequence.py). Credit to Professor Arne Storjohann for the visuals.
 
 ![Subproblem Formula](img/SubproblemFormula.jpg)
 
